@@ -9,6 +9,8 @@ box-shadow: 0px 2px 4px gray;
 }
 #headlogo img{
 margin-top: 35px;
+margin-right: -200px;
+
 }
 #logo{
 width:200px;
@@ -17,29 +19,54 @@ float: left;
 padding-left:10px;
 padding-bottom: 10px;
 }
+#article {
+	float: left;
+	width: 700px;
+	padding-right: -50px;
+    padding-top: -250px;	
+}
+video {
+	padding-bottom: 60px;
+}
 .navbar {
-clear: both;	
-width: 150px;
-margin-left: -30px;
-padding-bottom: 10px;
-list-style-type: none;
+	padding: 5px 0 5px 0;
+	text-align: center;
+	line-height: 32px;
+	background-color: 00007B; 
 }
 
-.navbar a {
-background-color: #eee;
-color: black;
-font-family:Georgia; 
-display: block;
-padding: 30px;
-margin-bottom: 10px;
-text-decoration: none;
+ul. navbar {
+	  margin-top: 15px;
 }
-.navbar a:hover {
-background-color:#db2e2b;
+
+ li {
+	display: inline;
+	padding: 8px;
+	font-size: 20px;
 }
-.navbar a.active {
-background-color: #4CAF50;
-color: white;
+
+ a{
+	text-decoration: none;
+	color: #333333;
+	padding: 8px;
+	font-variant: small-caps;
+}
+
+ a:hover {
+	color: #00ff00;
+    background-color: #333333;
+    text-decoration:underline;
+}
+#Kam {
+  float: left;
+  margin-left:-90px;
+  margin-top:-100px;
+}
+#social {
+	float: right;
+	margin-right:670px;
+	margin-top: -30px;
+	
 }
 .footer {
 position: fixed;
@@ -50,9 +77,10 @@ background-color:#cccccc;
 color:#ffffff;
 text-align: center;
 }
-#Kam {
-	
-
+@media screen and (max-width:500px) {
+	header, #headlogo img {
+		width: 100%;
+	}
 }
 	
 

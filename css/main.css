@@ -34,7 +34,9 @@ video {
 	line-height: 32px;
 	background-color: 00007B; 
 }
-
+h4 {
+    color : #850000;
+}
 ul. navbar {
 	  margin-top: 15px;
 }

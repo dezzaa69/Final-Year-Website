@@ -23,7 +23,7 @@ When a thread is clicked by a user the news will expand onto another page.
 <br>
 <br>
 <h2>Prototype</h2>
-<img src="Images/prototype.jpg" width "30" height "30"/>
+<img src= https://user-images.githubusercontent.com/25174151/34176386-9a359ef0-e4b4-11e7-85ec-165e8b2dae5c.JPG>
 <br>
 This  is the wireframe of the website, it includes the navigation bar, the header and the footer.
 <br>

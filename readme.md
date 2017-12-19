@@ -32,7 +32,7 @@ Before implementing my code for my website i decided to draw up a few screen des
 look like and its features. In the screen designs I have labeled the colours I will use, the font and the images and other
 components. This was critical as it helped me design the layout of my chosen website. Below I have screenshots of the design. 
 <br>
-<img src="Images/sh1.jpg" width "30" height "30"/>
-<img src="Images/sh2.jpg" width "30" height "30"/>
-<img src="Images/sh3.jpg" width "30" height "30"/>
+<img src =https://user-images.githubusercontent.com/25174151/34176469-d072c6fa-e4b4-11e7-8e81-c634afef470c.jpeg>
+<img src =https://user-images.githubusercontent.com/25174151/34176470-d096d572-e4b4-11e7-8aa4-e038c552bbd5.jpeg>
+<img src =https://user-images.githubusercontent.com/25174151/34176471-d0b2ee56-e4b4-11e7-81c1-d202410b4783.jpeg>
 <br>

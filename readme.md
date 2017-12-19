@@ -10,7 +10,7 @@ Before starting the webpage, I sketched out a few drawings of the prototype woul
 The sketches can be found in the Readme file. Below I will post the NFL website annotating the features, functions and colours and styles I enjoyed. 
 <br>
 <br>
-![website](https://user-images.githubusercontent.com/25174151/34173624-eedd19b0-e4aa-11e7-94f2-b3f5ceada6de.JPG)
+<img src= https://user-images.githubusercontent.com/25174151/34176175-dc9643e0-e4b3-11e7-9375-fd6c6fd01c10.JPG>
 <br>
 The NFL Logo tells us the owner of the website which is the “National Football League”. 
 The logo has bright and outstanding colours which appeal to the target audience. 

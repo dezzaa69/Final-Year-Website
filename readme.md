@@ -10,7 +10,7 @@ Before starting the webpage, I sketched out a few drawings of the prototype woul
 The sketches can be found in the Readme file. Below I will post the NFL website annotating the features, functions and colours and styles I enjoyed. 
 <br>
 <br>
-<img src="Images/website.jpg" width "50" height "50"/>
+<img src="Images/website.jpg" width "30" height "30"/>
 <br>
 The NFL Logo tells us the owner of the website which is the “National Football League”. 
 The logo has bright and outstanding colours which appeal to the target audience. 
@@ -23,6 +23,16 @@ When a thread is clicked by a user the news will expand onto another page.
 <br>
 <br>
 <h2>Prototype</h2>
-<img src="Images/prototype.jpg" width "50" height "50"/>
+<img src="Images/prototype.jpg" width "30" height "30"/>
 <br>
 This  is the wireframe of the website, it includes the navigation bar, the header and the footer.
+<br>
+<h2> Screen designs </h2>
+Before implementing my code for my website i decided to draw up a few screen designs of what the website would
+look like and its features. In the screen designs I have labeled the colours I will use, the font and the images and other
+components. This was critical as it helped me design the layout of my chosen website. Below I have screenshots of the design. 
+<br>
+<img src="Images/sh1.jpg" width "30" height "30"/>
+<img src="Images/sh2.jpg" width "30" height "30"/>
+<img src="Images/sh3.jpg" width "30" height "30"/>
+<br>

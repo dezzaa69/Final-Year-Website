@@ -36,3 +36,20 @@ components. This was critical as it helped me design the layout of my chosen web
 <img src =https://user-images.githubusercontent.com/25174151/34176470-d096d572-e4b4-11e7-8aa4-e038c552bbd5.jpeg>
 <img src =https://user-images.githubusercontent.com/25174151/34176471-d0b2ee56-e4b4-11e7-81c1-d202410b4783.jpeg>
 <br>
+<h2 Validation<h2>
+During the coding process of my website, I came across a few errors which I had to validate to make sure the code I used was correct. I used html checker to find out the errors within my css, javascript and html code. I have screenshotted a few of the errors below. 
+<img src=https://user-images.githubusercontent.com/25174151/34177344-2ce57682-e4b8-11e7-9d3b-9730fb318360.JPG>
+One of the errors was to add an "alt" attribute to the image code to make sure it was validated.
+<br>
+<br>
+I managed to fix all the errors in my code and shown a screen shot below
+<br>
+<img src=https://user-images.githubusercontent.com/25174151/34177508-ae4e7e9e-e4b8-11e7-9275-0cd7cf882905.JPG>
+<br>
+<h2>Code Comments</h2>
+I managed to add comments to some parts of the code to explain what is going on in the html code. I have screenshotted a part of the website with comments in green.
+<br>
+<img src=https://user-images.githubusercontent.com/25174151/34177698-4c54e286-e4b9-11e7-9375-2f6332d31d6c.JPG>
+<br>
+End. 
+

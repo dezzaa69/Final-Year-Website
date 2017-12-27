@@ -51,5 +51,15 @@ I managed to add comments to some parts of the code to explain what is going on 
 <br>
 <img src=https://user-images.githubusercontent.com/25174151/34177698-4c54e286-e4b9-11e7-9375-2f6332d31d6c.JPG>
 <br>
-End. 
+
+<h2>References<h2>
+
+
+1. Cities, S. (2017). NCAA College Football Teams, Scores, Stats, News, Standings, Rumors - College Football - ESPN. [online] ESPN.com. Available at: http://www.espn.co.uk/college-football/ [Accessed 27 Dec. 2017].
+
+2. En.wikipedia.org. (2017). Kam Chancellor. [online] Available at: https://en.wikipedia.org/wiki/Kam_Chancellor [Accessed 27 Dec. 2017].
+
+3. Nfl.com. (2017). NFL.com - Official Site of the National Football League. [online] Available at: https://www.nfl.com/ [Accessed 27 Dec. 2017].
+
+4. W3schools.com. (2017). W3Schools Online Web Tutorials. [online] Available at: https://www.w3schools.com/ [Accessed 27 Dec. 2017].
 

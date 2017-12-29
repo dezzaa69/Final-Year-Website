@@ -80,20 +80,30 @@ background-color:#cccccc;
 color:#ffffff;
 text-align: left;
 }
-@media screen and (max-width:320px) {
+@media screen and (max-width:800px) {
+	/*Mobile view*/
 	header, #article {
 	    width: 100%;
 	}
 	#Kam, #headlogo img{
-		width: 70%;
+		width: 100%;
 	}
      #social {
-		 width: 50%;
+		 width: 80%;
 	 }
 	  .footer {
 		  width: 100%;
 	  }
-	
+	  video {
+		  width: 100%;
+		  height: auto;
+	  }
+	  iframe {
+		  width:100%;
+	  }
+	   .button {
+		   width: 100%;
+	   }
 
 
 	
